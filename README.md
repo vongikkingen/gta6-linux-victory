@@ -15,10 +15,10 @@ and no VIctory build.
 
 ## Demo
 
-[![Demo preview: prologue, prison cell. Select it to open the full video.](media/demo-preview.webp)](media/demo.mp4)
+https://github.com/user-attachments/assets/193b79bb-afd9-42af-8c03-873cdf0934ce
 
-Full video: [media/demo.mp4](media/demo.mp4). Prologue, prison dormitory, live play. Build: fixes 1
-and 2 of FINDINGS. 1080p, 102 s. The desktop outside the game window is blurred.
+Prologue, prison dormitory, live play. Build: fixes 1 and 2 of FINDINGS. 1080p, 102 s. The desktop
+outside the game window is blurred. Video file: [media/demo.mp4](media/demo.mp4).
 
 ## Configuration
 
