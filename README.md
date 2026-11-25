@@ -3,7 +3,8 @@
 Xbox Series build of GTA VI. It runs on Linux through Proton and
 [VIctory](https://github.com/Marvisak/VIctory), an Xbox GDK compatibility layer.
 This repository contains the tooling and the findings. It contains no game data, no game binaries
-and no VIctory build.
+and no VIctory build. Code: [vongikkingen/victory-linux](https://github.com/vongikkingen/victory-linux),
+branch `gta6-linux`.
 
 ## Status (2026-11-25)
 
